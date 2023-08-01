@@ -1,0 +1,62 @@
+Button {
+  height: 40px;
+  width: 29px;
+}
+
+
+
+body {
+  background-color: rgb(254, 254, 254);
+}
+
+.gridDiv {
+  margin-top: 50px;
+  height: 70px;
+  background-color: rgb(222, 234, 234);
+}
+
+.gridDiv2 {
+  margin-right: -50px;
+  margin-left: 500;
+  margin-top: 10px;
+  height: 70px;
+  background-color: rgb(222, 234, 234);
+}
+
+.gridDiv3 {
+  margin-top: 50px;
+  height: 70px;
+  background-color: rgb(222, 234, 234);
+
+}
+
+.gridDivLarge {
+  height: 250px;
+  width: 75px;
+  background-color: rgb(222, 234, 234);
+}
+
+
+
+.Words {
+  background-color: black;
+
+}
+
+.gridDiv5 {
+  margin-top: 9px;
+  height: 30px;
+  background-color: rgb(222, 234, 234);
+}
+
+.gridDiv6 {
+  margin-top: 9px;
+  height: 30px;
+  background-color: rgb(222, 234, 234);
+}
+
+.gridDiv7 {
+  margin-top: 9px;
+  height: 30px;
+  background-color: rgb(222, 234, 234);
+}
